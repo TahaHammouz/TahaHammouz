@@ -1,4 +1,7 @@
 <h2 align="left">Hi 👋! My name is TaHa Hammouz 👋</h2>
+###
+
+<img align="left" height="500" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  />
 
 ###
 
@@ -38,8 +41,7 @@
 
 <img href="https://raw.githubusercontent.com/TahaHammouz/TahaHammouz/blob/output/snake.svg" alt="Snake animation" />
 
-###
 
-<img height="500" width="800" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  />
 
 ###
+Profile Readme Generator
