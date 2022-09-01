@@ -40,6 +40,6 @@
 
 ###
 
-<img align="left" height="500" width:"900" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  />
+<img align="left" height="500" width=auto src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  />
 
 ###
