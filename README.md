@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <img height="641" width="360" src="https://media3.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b76114a649fbbf286aca7b395122840eb78744607ec18&rid=giphy.gif&ct=g"  />
+  <img height="360" width="641" src="https://media3.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b76114a649fbbf286aca7b395122840eb78744607ec18&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
