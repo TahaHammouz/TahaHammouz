@@ -39,9 +39,6 @@
 <img href="https://raw.githubusercontent.com/TahaHammouz/TahaHammouz/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img  width:450px; display: inline-block src="https://media3.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b76114a649fbbf286aca7b395122840eb78744607ec18&rid=giphy.gif&ct=g"  />
-</div>
+<div class="tenor-gif-embed" data-postid="24297652" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/coding-gif-24297652">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ###
