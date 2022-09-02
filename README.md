@@ -71,6 +71,7 @@
 
 <br clear="both">
 
+
 <img href="https://raw.githubusercontent.com/TaHaHammouz/TaHaHammouz/blob/output/snake.svg" alt="Snake animation" />
 
 ###
