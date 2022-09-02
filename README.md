@@ -64,12 +64,3 @@
 </div>
 
 ###
-
-/*<h4 align="left">Watch my contribution graph get eaten by the snake 🐍</h4>*/
-
-###
-
-<br clear="both">
-
-/*/<img href="https://raw.githubusercontent.com/TaHaHammouz/TaHaHammouz/blob/output/snake.svg" alt="Snake animation" />*/
-###
