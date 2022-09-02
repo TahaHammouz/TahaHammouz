@@ -72,6 +72,6 @@
 <br clear="both">
 
 
-<img href="https://github.com/TahaHammouz/TahaHammouz/blob/main/snake.svg" alt="Snake animation" />
+<img href="https://github.com/TahaHammouz/TahaHammouz/blob/a3b7463a59add123dbabf2d7960e5dc7e4c13f7b/snake.svg" alt="Snake animation" />
 
 ###
