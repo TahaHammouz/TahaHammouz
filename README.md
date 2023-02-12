@@ -1,10 +1,5 @@
 <h2 align="left">Hi 👋! My name is TaHa Hammouz👋</h2>
 
-###
-
-<div align="center">
-  <img height="582" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  />
-</div>
 
 ###
 
