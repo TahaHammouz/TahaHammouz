@@ -48,8 +48,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" width="56" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" width="56" alt="react logo"  />
 
-  <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x309-yynfidez.png" height="35" width="56" alt="html5 logo"  />
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_170649.png" height="35" width="56" alt="html5 logo"  />
+  <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-512x309-yynfidez.png" height="35" width="56" alt="nextjs"  />
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_170649.png" height="35" width="56" alt="tailwindcss"  />
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" width="56" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" width="56" alt="python logo"  />
